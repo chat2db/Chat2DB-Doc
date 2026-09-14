@@ -1,4 +1,5 @@
 {
+  "duckdb-rust-guide": "DuckDB with Rust: Embedded Analytics Guide",
   "postgresql-eol-version-support-timeline": "PostgreSQL EOL: Version Support Timeline",
   "postgres-pg-stat-io-guide": "Postgres pg_stat_io: Find Real I/O Bottlenecks",
   "postgres-docker-alpine-vs-debian-image": "Postgres Docker: Alpine vs Debian Image",
